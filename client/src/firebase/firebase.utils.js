@@ -3,13 +3,14 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: 'AIzaSyCdHT-AYHXjF7wOrfAchX4PIm3cSj5tn14',
-  authDomain: 'crwn-db.firebaseapp.com',
-  databaseURL: 'https://crwn-db.firebaseio.com',
-  projectId: 'crwn-db',
-  storageBucket: 'crwn-db.appspot.com',
-  messagingSenderId: '850995411664',
-  appId: '1:850995411664:web:7ddc01d597846f65'
+  apiKey: "AIzaSyAKBvuP6XKCGvJD2ftlA5zRf37hBqaJdPE",
+  authDomain: "believe-cosmetics.firebaseapp.com",
+  databaseURL: "https://believe-cosmetics.firebaseio.com",
+  projectId: "believe-cosmetics",
+  storageBucket: "believe-cosmetics.appspot.com",
+  messagingSenderId: "299972122216",
+  appId: "1:299972122216:web:c77d3773a7b2de33a34ddd",
+  measurementId: "G-PJWNMEXZ5B"
 };
 
 firebase.initializeApp(config);
